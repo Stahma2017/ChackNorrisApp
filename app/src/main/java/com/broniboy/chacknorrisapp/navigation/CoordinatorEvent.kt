@@ -1,0 +1,3 @@
+package com.broniboy.chacknorrisapp.navigation
+
+abstract class CoordinatorEvent
